@@ -6,7 +6,7 @@
 <div> 
   <h2> Sobre mim.  🧑🏻‍💻  </h2>
   <p> 🎓 Atualmente estou cursando Análise e Des. de Sistemas pela Uninove. </p>
-  <p> 💻 Aluno do Instituto PROA, Cursando desenvolvimento Web Java. </p>
+  <p> 💻 Ex Aluno do Instituto PROA, desenvolvimento Web Java. </p>
   <p> 🖱 Buscando me aprimorar e ingressar na área como Desenvolvedor Front-End. </p>
 </div>
 
