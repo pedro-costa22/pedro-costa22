@@ -5,9 +5,11 @@
 
 <div> 
   <h2> Sobre mim.  🧑🏻‍💻  </h2>
-  <p> 🎓 Atualmente estou cursando Análise e Des. de Sistemas pela Uninove. </p>
+  <p> 👨‍💻 Atualmente estou trabalhando como Estagiário  em Desenvolvimento Frontend. </p>
+  <p> 🖱 Buscando sempre me aprimorar na área como Desenvolvedor Front-End. </p>
+  <p> 🎓 cursando Análise e Des. de Sistemas pela Uninove. </p>
   <p> 💻 Ex Aluno do Instituto PROA, desenvolvimento Web Java. </p>
-  <p> 🖱 Buscando me aprimorar e ingressar na área como Desenvolvedor Front-End. </p>
+  
 </div>
 
 <hr>
