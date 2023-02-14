@@ -14,7 +14,7 @@
 </div>
 <div> 
   <h2> Stacks  🧑🏻‍💻  </h2>
-  <p> 👨‍💻 Trabalhando com: ReactJs (NextJs), TypeScript, Tailwild CSS </p>
+  <p> 👨‍💻 Trabalhando: ReactJs (NextJs), TypeScript, Tailwild CSS </p>
   <p> 🖱  Estudando: NextJS, NodeJS </p>
 </div>
 
