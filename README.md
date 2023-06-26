@@ -7,7 +7,6 @@ const Pedro = {
  const name = "Pedro Henrique Costa"
  var birthDate = new Date("22/02/2002")
  var acknowledgements = "Front-End"
- var languages = ["JavaScript", "React.js", "Next.js", "Node.js", "TypeScript", "Express", "Sequelize" ]
  var currentWork = ["JavaScript", "React.js", "Next.js", "Typescript", "Sass", "Tailwind CSS", "styled-components"]
  var currentnLearn = ["Node.js", "Express.js", "Sequelize ORM", "SQL"]
 
