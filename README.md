@@ -5,11 +5,9 @@
 ```javascript
 const Pedro = {
  const name = "Pedro Henrique Costa"
- var birthDate = new Date("22/02/2002")
- var acknowledgements = "Full-Stack"
- var prevWork = ["JavaScript", "React.js", "Next.js", "Typescript", "Node.js" ]
- var currentWork = ["JavaScript", "Vue.js", "Typescript", "PHP", "Laravel", "MySQL" ]
- var currentLearn = ["Vue.js", "PHP", "Laravel", "SQL" ]
+    birthDate = new Date("22/02/2002")
+    acknowledgements = "Full-Stack"
+    stack = ["JavaScript", "Typescript", "React.js, "Vue.js", "Node.js", "PHP", "Laravel", "SQL", "Docker"]
 
   toString() {
     return `Hi I'm ${this.name}, a ${this.acknowledgements} developer`;
