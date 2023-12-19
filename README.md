@@ -22,7 +22,6 @@ const Pedro = {
   <p> 🎓 Cursando Análise e Des. de Sistemas pela Uninove. </p>
   <p> 💻 Ex Aluno do Instituto PROA, desenvolvimento Web Java. </p>
   <p> 📃 <a href="https://pedro-henrique-dev-mu.vercel.app">Meu Portfólio</a>
-  
 </div>
 
 <hr>
