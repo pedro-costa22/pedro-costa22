@@ -16,6 +16,12 @@ const Pedro = {
 }
 ```
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,vue,react,laravel,mysql,nodejs,nestjs,prisma,graphql,git,docker,aws,linux" />
+  </a>
+</p>
+
 <div> 
   <h2> Sobre mim: 🧑🏻‍💻  </h2>
   <p> 👨‍💻 Atualmente estou trabalhando como Desenvolvedor Full Stack Junior </p>
@@ -26,12 +32,6 @@ const Pedro = {
 </div>
 
 <hr>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,vue,react,laravel,mysql,nodejs,nestjs,prisma,graphql,git,docker,aws,linux" />
-  </a>
-</p>
 
 <div align="center">
   <a href="https://github.com/pedro-costa22">
