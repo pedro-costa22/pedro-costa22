@@ -16,12 +16,6 @@ const Pedro = {
 }
 ```
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,vue,react,laravel,mysql,nodejs,nestjs,prisma,graphql,git,docker,aws,linux" />
-  </a>
-</p>
-
 <div> 
   <h2> Sobre mim: 🧑🏻‍💻  </h2>
   <p> 👨‍💻 Atualmente estou trabalhando como Desenvolvedor Full Stack Junior </p>
@@ -31,13 +25,20 @@ const Pedro = {
   <p> 📃 <a href="https://pedro-henrique-dev-mu.vercel.app">Meu Portfólio</a>
 </div>
 
-<hr>
 
 <div align="center">
   <a href="https://github.com/pedro-costa22">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedro-costa22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-costa22&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<br />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,vue,react,laravel,mysql,nodejs,nestjs,prisma,graphql,git,docker,aws,linux" />
+  </a>
+</p>
   
   
  <div align="center">
