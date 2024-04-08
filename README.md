@@ -8,7 +8,7 @@ const Pedro = {
     birthDate = new Date("22/02/2002")
     acknowledgements = "Full-Stack"
     currentWork = ['JavaScript', 'Typescript', 'Vue/Nuxt', 'Node.js', 'React/Next', 'MySQL'],
-    currentLearn = ['Nest.js', 'Docker', 'SQL', 'CI/CD', ]
+    currentLearn = ['C#', '.NET', 'Docker', 'SQL', 'CI/CD']
 
   toString() {
     return `Hi I'm ${this.name}, a ${this.acknowledgements} developer`;
@@ -36,7 +36,7 @@ const Pedro = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,vue,react,laravel,mysql,nodejs,nestjs,prisma,git,docker,linux,graphql" />
+    <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,prisma,laravel,mysql,git,docker,linux," />
   </a>
 </p>
   
