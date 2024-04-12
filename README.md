@@ -4,7 +4,7 @@
 
 ```javascript
 const Pedro = {
- const name = "Pedro Henrique"
+    name = "Pedro Henrique"
     birthDate = new Date("22/02/2002")
     acknowledgements = "Full-Stack"
     currentWork = ['JavaScript', 'Typescript', 'Vue/Nuxt', 'Node.js', 'React/Next', 'MySQL'],
