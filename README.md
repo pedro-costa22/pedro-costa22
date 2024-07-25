@@ -22,7 +22,6 @@ const Pedro = {
   <p> 🖱  Buscando sempre me aprimorar na área como Desenvolvedor Full Stack </p>
   <p> 🎓 Formado em Análise e Des. de Sistemas. </p>
   <p> 💻 Ex Aluno do Instituto PROA, desenvolvimento Web Java. </p>
-  <p> 📃 <a href="https://pedro-henrique-dev-mu.vercel.app">Meu Portfólio</a>
 </div>
 
 
