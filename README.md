@@ -8,7 +8,7 @@ const Pedro = {
     birthDate = new Date("22/02/2002")
     acknowledgements = "Full-Stack"
     currentWork = ['JavaScript', 'Typescript', 'Vue/Nuxt', 'Node.js', 'React/Next', 'MySQL'],
-    currentLearn = ['Go', 'Docker', 'SQL', 'CI/CD']
+    currentLearn = ['Go', 'Docker', 'SQL', 'CI/CD', 'AWS']
 
   toString() {
     return `Hi I'm ${this.name}, a ${this.acknowledgements} developer`;
