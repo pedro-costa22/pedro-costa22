@@ -34,7 +34,7 @@ const Pedro = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,vue,react,nodejs,mysql,git,docker,linux,aws" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,postgres,mongo,git,docker,linux,aws" />
   </a>
 </p>
   
