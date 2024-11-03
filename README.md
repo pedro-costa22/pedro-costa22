@@ -7,8 +7,7 @@ const Pedro = {
     name = "Pedro Henrique"
     birthDate = new Date("22/02/2002")
     acknowledgements = "Full-Stack"
-    currentWork = ['JavaScript', 'Typescript', 'Vue/Nuxt', 'Nodejs', 'React/Next', 'MySQL'],
-    currentLearn = ['Nestjs', 'Docker', 'SQL', 'CI/CD', 'AWS']
+    currentWork = ['JavaScript', 'Typescript', 'Nodejs', 'Nestjs', 'C#', 'React/Next', 'PostgreSQL', 'MongoDB', 'Docker'],
 
   toString() {
     return `Hi I'm ${this.name}, a ${this.acknowledgements} developer`;
@@ -18,7 +17,7 @@ const Pedro = {
 
 <div> 
   <h2> Sobre mim: 🧑🏻‍💻  </h2>
-  <p> 👨‍💻 Atualmente estou trabalhando como Desenvolvedor Full Stack Junior </p>
+  <p> 👨‍💻 Atualmente estou trabalhando como Desenvolvedor Full Stack Pleno </p>
   <p> 🖱  Buscando sempre me aprimorar na área como Desenvolvedor Full Stack </p>
   <p> 🎓 Formado em Análise e Des. de Sistemas. </p>
   <p> 💻 Ex Aluno do Instituto PROA, desenvolvimento Web Java. </p>
